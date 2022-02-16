@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Software and Bibliography
 uid: 7a78d188-5b62-44c9-2489-b8265a2f5f9d
 ---
