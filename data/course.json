@@ -38,8 +38,10 @@
     "website": "4-401-environmental-technologies-in-buildings-fall-2018"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Activity Assignments"
   ],
-  "site_uid": "e32ab713-30a7-4fda-bec4-e9c2431b3911",
+  "site_uid": "37c850d1-4009-4f7f-803c-fdb8e5938f68",
+  "site_short_id": "4.401-fall-2018",
   "title": "Course Metadata"
 }

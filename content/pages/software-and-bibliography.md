@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Discussion of the software and basic texts needed for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Software and Bibliography
