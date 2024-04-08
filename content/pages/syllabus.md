@@ -44,9 +44,9 @@ The following deliverables will be required to pass this class:
 *   Attendance of semiweekly lectures and labs.
 *   Timely completion of assignments. Late assignments will not be accepted.
 *   Completion of a group course project. The course project will be to develop and present an environmental concept for a small office building.
-*   Preparation of 15 minute in-class group presentations on one of the American Institute of Architects (AIA) Committee on the Environment (COTE) [Top Ten Projects](http://www.aiatopten.org/) for the current year. Presentations should have the following format:
+*   Preparation of 15 minute in-class group presentations on one of the American Institute of Architects (AIA) Committee on the Environment (COTE) {{% resource_link "d4b86442-c5b3-443b-a256-8392393ae4e3" "Top Ten Projects" %}} for the current year. Presentations should have the following format:
     *   Overview of the main environmental features of the building.
-    *   Discussion of predicted energy use. (Note: You do not have to explicitly model the building for energy use. You should rather review the predicted and actual energy use for the building—this is published for most of the AIA awarded buildings—and assess how they compare; also compare the data to typical buildings of the same type. The [Commercial Buildings Energy Consumption Survey](https://www.eia.gov/consumption/commercial/) (CBECS) has data on energy usage for various building types in different parts of the country. How much better is your building than the average? What design strategies contribute the most to the savings?)
+    *   Discussion of predicted energy use. (Note: You do not have to explicitly model the building for energy use. You should rather review the predicted and actual energy use for the building—this is published for most of the AIA awarded buildings—and assess how they compare; also compare the data to typical buildings of the same type. The {{% resource_link "f34e363e-9b4d-4c3d-9d4c-7fdd4eb8de0b" "Commercial Buildings Energy Consumption Survey" %}} (CBECS) has data on energy usage for various building types in different parts of the country. How much better is your building than the average? What design strategies contribute the most to the savings?)
     *   Daylighting analysis of the building. Construct a simple 3D model of the whole or key spaces within the building. The model does not have to be very detailed, but should include the major façade openings and elements so that you can evaluate how light is being distributed in the space.
     *   Discussion of what you like and/or dislike about the building and its environmental concept.
 *   Active participation in class discussions.
@@ -106,4 +106,4 @@ Participation in class discussions
 
 {{< tableclose >}}
 
-Please familiarize yourself with MIT's [Academic Integrity Expectations](http://web.mit.edu/academicintegrity/).
+Please familiarize yourself with MIT's {{% resource_link "cab3209c-2bdb-4a4f-8414-d30fd0284241" "Academic Integrity Expectations" %}}.
