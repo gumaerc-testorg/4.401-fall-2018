@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-401-environmental-technologies-in-buildings-fall-2018/4cfe5b351f32c9a27932cfc4ec110224_MIT4_401f18_assignment3.pdf
+file_size: 1062226
 file_type: application/pdf
 learning_resource_types:
 - Assignments
