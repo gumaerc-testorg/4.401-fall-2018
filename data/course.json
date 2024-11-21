@@ -27,6 +27,8 @@
     "website": "4-401-environmental-technologies-in-buildings-fall-2018"
   },
   "course_title": "Environmental Technologies in Buildings",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This course focuses on the thermal, luminous, and acoustic behavior of buildings, examining the basic scientific principles underlying these phenomena and introducing students to technologies and analysis techniques for designing comfortable indoor environments. Students are challenged to apply these techniques and explore the role light, energy, and sound can play in shaping architecture.\n",
   "department_numbers": [
     "4"
@@ -39,7 +41,8 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Activity Assignments"
+    "Activity Assignments",
+    "Projects"
   ],
   "site_uid": "37c850d1-4009-4f7f-803c-fdb8e5938f68",
   "site_short_id": "4.401-fall-2018",
