@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-401-environmental-technologies-in-buildings-fall-2018/ea268fdc900bdb9b8e195593363c14bf_MIT4_401f18_assignment7.pdf
+file: /courses/4-401-environmental-technologies-in-buildings-fall-2018/ea268fdc900bdb9b8e195593363c14bf_MIT4_401f18_assignment7.pdf
 file_size: 1135266
 file_type: application/pdf
 learning_resource_types:
