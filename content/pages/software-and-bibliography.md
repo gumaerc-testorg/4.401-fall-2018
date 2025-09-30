@@ -12,9 +12,9 @@ Software
 
 Throughout the course we will be using the following software packages:
 
-*   **Rhinoceros 5 or 6**. Rhinoceros forms the CAD backbone of all environmental analysis tools that we will be using in this class. Students should therefore ideally have a working version of Rhino 5 or 6 installed on their laptops or workstations. You can install a 90-day [demo version](https://www.rhino3d.com/download/rhino-for-windows/6/evaluation) of Rhino 6 for free.
-*   **DIVA-for-Rhino**. We will be using DIVA for assignments on solar radiation and daylighting and energy simulation. Students may request free licenses for their laptops from the [DIVA-for-Rhino website](https://www.solemma.com/diva).
-*   **Climate Consultant**. Climate Consultant is an easy-to-use, graphic-based computer program for visualizing and interpreting annual climate files. The tool can be [downloaded](http://www.energy-design-tools.aud.ucla.edu) free-of-charge. (During class we will also be introducing MIT's new CLIMA+ tool that has comparable functionality to Climate Consultant.)
+*   **Rhinoceros 5 or 6**. Rhinoceros forms the CAD backbone of all environmental analysis tools that we will be using in this class. Students should therefore ideally have a working version of Rhino 5 or 6 installed on their laptops or workstations. You can install a 90-day {{% resource_link "737b12cc-3c72-41fc-a398-61fa4328e5cb" "demo version" %}} of Rhino 6 for free.
+*   **DIVA-for-Rhino**. We will be using DIVA for assignments on solar radiation and daylighting and energy simulation. Students may request free licenses for their laptops from the {{% resource_link "f2eee045-43d5-451e-b402-54e85926d3f0" "DIVA-for-Rhino website" %}}.
+*   **Climate Consultant**. Climate Consultant is an easy-to-use, graphic-based computer program for visualizing and interpreting annual climate files. The tool can be {{% resource_link "a1244c1d-6750-4295-b1b1-d11b7cb77b4f" "downloaded" %}} free-of-charge. (During class we will also be introducing MIT's new CLIMA+ tool that has comparable functionality to Climate Consultant.)
 
 Bibliography
 ------------
