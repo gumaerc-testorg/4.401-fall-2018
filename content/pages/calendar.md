@@ -52,7 +52,7 @@ Energy Use in Buildings
 Understanding Climate: Solar Radiation | Where Is the Sun?
 {{< tdclose >}}
 {{< tdopen >}}
-DIVA Shading Study ([DIVA-GH2](https://www.youtube.com/watch?v=hlHamUJ-suk))
+DIVA Shading Study ({{% resource_link "fe23d5ae-5835-46d0-8626-6d56ac880b1b" "DIVA-GH2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +82,7 @@ Active Solar
 (no lecture)
 {{< tdclose >}}
 {{< tdopen >}}
-DIVA Radiation Maps + ArchSim PV Simulations ([DIVA-GH7](https://www.youtube.com/watch?v=1BUrj14B_a0&feature=youtu.be))
+DIVA Radiation Maps + ArchSim PV Simulations ({{% resource_link "125ff42c-f3f2-41c4-90b7-ce893ffd1881" "DIVA-GH7" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +97,7 @@ Light and Human Vision | Photometry
 Daylighting Design Principles
 {{< tdclose >}}
 {{< tdopen >}}
-﻿DIVA Rendering & Illuminance Calculations﻿ ([DIVA-GH1](https://vimeo.com/178032314))
+﻿DIVA Rendering & Illuminance Calculations﻿ ({{% resource_link "70b6043f-8675-4cf3-93a5-fb1541282172" "DIVA-GH1" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +112,7 @@ Daylighting Design Principles
 Daylight Simulations | Daylight Availability Metrics | Characterizing Material
 {{< tdclose >}}
 {{< tdopen >}}
-DIVA Daylight Availability Calculations ([DIVA-GH4](https://vimeo.com/178104137)) + Dynamic Shading ([DIVA-GH5](https://vimeo.com/178178194))
+DIVA Daylight Availability Calculations ({{% resource_link "cebbc16a-2972-403f-99af-a192866db753" "DIVA-GH4" %}}) + Dynamic Shading ({{% resource_link "8d579c0a-fd39-449f-aca9-a4a3c42d101b" "DIVA-GH5" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +127,7 @@ DIVA Daylight Availability Calculations ([DIVA-GH4](https://vimeo.com/178104137)
 Electric Lighting | Controls | Occupant Behavior
 {{< tdclose >}}
 {{< tdopen >}}
-Glare Analysis ([DIVA-RH3](https://www.youtube.com/watch?v=B1Pzf7x7x-o)) + Electric Lighting & Controls ([DIVA-RH5](https://www.youtube.com/watch?v=W42ZSmCftkw), [DIVA-RH6](https://www.youtube.com/watch?v=cT2meCERpCQ))
+Glare Analysis ({{% resource_link "a8fa63f3-f9e5-439d-b46f-64fda19536ac" "DIVA-RH3" %}}) + Electric Lighting & Controls ({{% resource_link "17e7c41a-8d75-458e-9732-3f76de570bc9" "DIVA-RH5" %}}, {{% resource_link "387060ad-b4e1-4996-9daf-66ccaf00961d" "DIVA-RH6" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +142,7 @@ Thermal Mass | Heat Flow I
 (no lecture)
 {{< tdclose >}}
 {{< tdopen >}}
-Setting Up an Integrated Daylighting/Thermal Model ([DIVA-GH8](https://www.youtube.com/watch?v=I0sN1HTOjQU&feature=youtu.be), [DIVA-GH10](https://www.youtube.com/watch?v=C-90PHpFMhk&feature=youtu.be))
+Setting Up an Integrated Daylighting/Thermal Model ({{% resource_link "76b6988a-593c-451f-894b-158a6f9160ee" "DIVA-GH8" %}}, {{% resource_link "d5e33191-50a8-4079-b61e-49c1b01a7412" "DIVA-GH10" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
